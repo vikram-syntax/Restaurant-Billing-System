@@ -22,6 +22,21 @@ An interactive command-line Python application designed to manage restaurant ord
 ## Requirements
 * Python 3.x (No external libraries or `pip install` packages required; runs entirely on standard built-in Python libraries).
 
+## Test Cases & Output Screenshots
+
+### Test Case 1
+<img src="./Testcase1.jpg" alt="Test Case 1" width="600"/>
+
+### Test Case 2
+<img src="./Testcase2.jpg" alt="Test Case 2" width="600"/>
+
+### Test Case 3
+<img src="./Testcase3.jpg" alt="Test Case 3" width="600"/>
+
+### Test Case 4
+<img src="./Testcase4.jpg" alt="Test Case 4" width="600"/>
+
+
 ## Steps to Run
 1. Open your terminal, command prompt, or VS Code PowerShell.
 2. Navigate to the directory containing the script.
