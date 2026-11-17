@@ -42,4 +42,4 @@ An interactive command-line Python application designed to manage restaurant ord
 2. Navigate to the directory containing the script.
 3. Run the Python script using the command:
    ```bash
-   python restaurant_billing.py
+   python one.py
