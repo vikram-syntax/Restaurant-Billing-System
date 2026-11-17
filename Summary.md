@@ -30,3 +30,15 @@ The billing engine calculates the subtotal, applies a **10% discount** on orders
 * **Test Case 2:** Subtotal Exceeding ₹500 (10% Discount + 5% GST Applied)
 * **Test Case 3:** Input Validation (Invalid Item Name, Zero/Negative & Non-Numeric Quantities)
 * **Test Case 4:** Multi-Item Inline Ordering (`Order Thali x4, Dosa x2, Tea x2`)
+
+### Test Case 1
+<img src="./Testcase1.jpg" alt="Test Case 1" width="600"/>
+
+### Test Case 2
+<img src="./Testcase2.jpg" alt="Test Case 2" width="600"/>
+
+### Test Case 3
+<img src="./Testcase3.jpg" alt="Test Case 3" width="600"/>
+
+### Test Case 4
+<img src="./Testcase4.jpg" alt="Test Case 4" width="600"/>
